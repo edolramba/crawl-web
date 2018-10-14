@@ -1,0 +1,22 @@
+{
+  "name": "crawl-web",
+  "version": "1.0.0",
+  "description": "\"# crawl-web\" \r Hello this is second message\r Why didn't update?\r Hello again?",
+  "main": "download-node.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "request": "^2.88.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://yona.edolramba.iptime.org/admin/crawl-web"
+  },
+  "author": "",
+  "license": "ISC"
+}
