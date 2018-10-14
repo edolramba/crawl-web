@@ -4,6 +4,7 @@
   "description": "\"# crawl-web\" \r Hello this is second message\r Why didn't update?\r Hello again?",
   "main": "download-node.js",
   "dependencies": {
+    "cheerio-httpcli": "^0.7.3",
     "fs": "0.0.1-security",
     "http": "0.0.0",
     "request": "^2.88.0",
